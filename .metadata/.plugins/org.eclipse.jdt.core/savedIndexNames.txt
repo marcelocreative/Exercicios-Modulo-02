@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Documentos\Estudos\Projetos\workspace-eclipse\Algoritmos3\.metadata\.plugins\org.eclipse.jdt.core
+847714263.index
+3433879833.index

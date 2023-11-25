@@ -1,0 +1,26 @@
+package recursividade;
+
+public class CaculadoraFatorial {
+
+	
+	public static Integer calculoFatorialComRecursao(Integer num) {
+		
+		if(num == 0) {
+			return 1;
+		}
+		
+		return num * calculoFatorialComRecursao(num-1);
+		
+	}
+	
+	public static Integer calculoFatorialComRecursaoEProgramacaoDinamica(Integer num) {
+		
+		if(num == 0) {
+			return 1;
+		}
+		
+		return num * calculoFatorialComRecursao(num-1);
+		
+	}
+	
+}

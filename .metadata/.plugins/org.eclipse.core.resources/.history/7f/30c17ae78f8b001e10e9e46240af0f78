@@ -1,0 +1,15 @@
+package recursividade;
+
+public class TesteCalculadoraFatorial {
+
+	public static void main(String[] args) {
+		
+		
+		//Cálculo fatorial com recursão
+		int valorFatorial = CaculadoraFatorial.calculoFatorialComRecursao(5);
+		
+		System.out.println(valorFatorial);
+
+	}
+
+}

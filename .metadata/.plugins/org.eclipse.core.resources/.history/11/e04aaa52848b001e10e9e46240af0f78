@@ -1,0 +1,11 @@
+package recursividade;
+
+public class TesteCalculadoraFatorial {
+
+	public static void main(String[] args) {
+		
+		Integer valorFatorial = CaculadoraFatorial.calculoFatorialComRecursao(5);
+
+	}
+
+}
